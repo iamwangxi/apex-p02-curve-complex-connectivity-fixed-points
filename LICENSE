@@ -1,0 +1,32 @@
+License scope
+=============
+
+Original prose in README.md, README.zh-CN.md, proof/, and sources/ is
+licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
+to the extent applicable copyright or database rights exist. The original
+selection and arrangement of this package and its manifest are covered
+on the same basis.
+
+Attribute this material to the apex-p02-curve-complex-connectivity-fixed-points
+contributors, retain this notice, provide a link to the license, and
+indicate changes. A suitable attribution is:
+
+"Adapted from Higher Connectivity, Fixed Points, and an Equivariance
+Obstruction for Curve Complexes, by the
+apex-p02-curve-complex-connectivity-fixed-points contributors, CC BY 4.0."
+
+When available, include the public repository URL and the version used.
+
+CC BY 4.0 canonical license: https://creativecommons.org/licenses/by/4.0/
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The license permits sharing and adaptation, including commercial use,
+subject to its attribution conditions. The linked legal code governs.
+No additional restrictions are imposed by this notice.
+
+The Apex target paper and external references are not covered by this
+grant. They retain their own copyright and license terms. External
+publications are cited or linked, not bundled as full texts or PDFs.
+No license here implies endorsement by Apex Intelligence or any cited author.
+
+This material is supplied without warranties, as provided in CC BY 4.0.
